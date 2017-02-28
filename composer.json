@@ -1,0 +1,9 @@
+{
+    "require": {
+        "codeception/codeception": "^2.2"
+    },
+    "scripts": {
+        "test": "vendor/bin/codecept run",
+        "test-debug": "vendor/bin/codecept run --debug"
+    }
+}
