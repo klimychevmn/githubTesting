@@ -4,6 +4,10 @@
     },
     "scripts": {
         "test": "vendor/bin/codecept run",
-        "test-debug": "vendor/bin/codecept run --debug"
+        "test-debug": "vendor/bin/codecept run --debug",
+        "test-steps": "vendor/bin/codecept run --steps"
+    },
+    "autoload": {
+        "psr-4": { "App\\": "classes/App/" }
     }
 }
