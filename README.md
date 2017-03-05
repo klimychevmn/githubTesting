@@ -25,6 +25,14 @@ Install all dependencies:
 $> composer install
 ```
 
+Configure
+----------------
+replace this mocks in /test/acceptance/---Cept.php files
+@your_email@ - your github email
+@your_pass@ - your github password
+@your_nickname@ - your github nickname
+
+
 Run tests
 ----------------
 
