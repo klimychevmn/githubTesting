@@ -27,10 +27,10 @@ composer install
 
 Configure
 ----------------
-replace this mocks in /test/acceptance/---Cept.php files
-@your_email@ - your github email
-@your_pass@ - your github password
-@your_nickname@ - your github nickname
+replace this mocks in /test/acceptance/---Cept.php files <br> 
+@your_email@ - your github email <br>
+@your_pass@ - your github password <br>
+@your_nickname@ - your github nickname <br>
 
 
 Run tests
